@@ -35,6 +35,7 @@
    
 ## Utilisations  
 
+	* Exéction du fichier script_creation_insertion.sql dans Oracle SQL developer
 	* Connection : A travers un identifiant et un mot de passe
 	* Modification et déconnexion : A travers un clique sur l'icone en haut à gauche de l'interface
 	
