@@ -1,6 +1,6 @@
 *Projet de Développement Logiciel*
 
-##**Tables des matières**
+**Tables des matières**
 1. [Description](#description)
 2. [Fonctionnalites](#fonctionnalites)
 3. [Utilisations](#utilisations)
@@ -8,12 +8,12 @@
 
 ---
 
-#**Description : ** 
+**Description :**
 	Un logiciel simple pour permettre 
 	Aux administrateurs de gérer les inscriptions en dominantes 
 	Aux étudiants d'effectuer et de consulter leurs choix.
 
-#**Fonctionnalites : **
+#**Fonctionnalites :**
 
 * Ce que les étudiants peuvent faire :  
 
@@ -33,7 +33,7 @@
 	 Lancer le traitement automatique pour la répartition des étudiants dans les dominantes  
 	 Forcer l'inscription des étudiants dans une dominante  
    
-#**Utilisations : **
+#**Utilisations :**
 	* Connection : A travers un identifiant et un mot de passe
 	* Modification et déconnexion : A travers un clique sur l'icone en haut à gauche de l'interface
 	
@@ -91,7 +91,7 @@
 	       (Les détails du traitement est affiché en console)
 
 	
-#**Auteurs : ** 
+#**Auteurs :** 
  
 	    Hilary BOCO - Gilbert TOBOSSI 
 	
