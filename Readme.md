@@ -2,7 +2,7 @@
 
 **Tables des matières**
 1. [Description](#Description)
-2. [Fonctionnalites](#fonctionnalites)
+2. [Fonctionnalites](#Fonctionnalites)
 3. [Utilisations](#utilisations)
 4. [Auteurs](#auteurs)
 
@@ -13,7 +13,7 @@
 	Aux administrateurs de gérer les inscriptions en dominantes 
 	Aux étudiants d'effectuer et de consulter leurs choix.
 
-#**Fonctionnalites :**
+**Fonctionnalites :**
 
 * Ce que les étudiants peuvent faire :  
 
