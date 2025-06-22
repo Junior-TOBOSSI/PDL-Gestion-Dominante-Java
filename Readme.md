@@ -8,12 +8,12 @@
 
 ---
 
-##**Description**
+## Description
 	Un logiciel simple pour permettre 
 	Aux administrateurs de gérer les inscriptions en dominantes 
 	Aux étudiants d'effectuer et de consulter leurs choix.
 
-##**Fonctionnalites :**
+## Fonctionnalites
 
 * Ce que les étudiants peuvent faire :  
 
@@ -91,7 +91,7 @@
 	       (Les détails du traitement est affiché en console)
 
 	
-#**Auteurs :** 
+## Auteurs 
  
 	    Hilary BOCO - Gilbert TOBOSSI 
 	
