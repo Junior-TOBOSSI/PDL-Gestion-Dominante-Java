@@ -1,7 +1,4 @@
-#*Projet de Développement Logiciel*#
-
-
-![Logo de Esigelec](logo_esigelec.png)
+*Projet de Développement Logiciel*
 
 ##**Tables des matières**
 1. [Description](#description)
